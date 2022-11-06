@@ -1,8 +1,8 @@
 #include "IntData.h"
 
-IntData::1ntData(int data)
+IntData::IntData(int data)
 {
-m_data = data;
+	m_data = data;
 }
 IntData::~IntData()
 {
